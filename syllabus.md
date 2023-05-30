@@ -176,6 +176,12 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 * Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
 * There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  
+* We expect __all students__ to __fully participate__ in the coding of the project.  This includes:
+  - Working successfully with other team members
+  - Attending team meetings (both with and without the TA)
+  - Collaborating on code with team members
+  - Committing working, meaningful code to the project on the main branch that makes it to the final version of the system (e.g. coding a feature of the system, not just fixing deployment issues or adding test cases)
+* Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  This may be represented as a negative team evaluation score in our system so as to make the penalty clear to the staff and student.
 
 ### Final Exam and Project Demos
 {: .no_toc }
@@ -193,9 +199,9 @@ You are expected to work as a member of your group in this course and cooperate 
 ### Attendance
 {: .no_toc }
 * No attendance will be taken during the lectures sessions on Tuesdays and Thursdays.  
-* We plan to record lectures most days and will make them available through Collab.
+* We plan to record lectures most days and will make them available through Canvas.
 * Students should only attend the lecture section they have registered for due to room size restrictions.  
-* Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities *must* be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
+* Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities _must_ be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
 
 ### Late Policy
 {: .no_toc }

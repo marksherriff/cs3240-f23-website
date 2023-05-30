@@ -1,36 +1,36 @@
 lecture_sections:
-  - Lecture 001 - Tuesdays and Thursdays @ 9:30 AM-10:45 AM in Rice 130 w/ Prof. Mark Sherriff  
-  - Lecture 002 - Tuesdays and Thursdays @ 2:00 PM-3:15 PM in Rice 130 w/ Prof. Tom Horton
+  - Lecture 001 - Tuesdays and Thursdays @ 11:00 AM-12:15 AM in Rice 130   
+  - Lecture 002 - Tuesdays and Thursdays @ 9:30 AM-10:45 AM in Rice 130   
   - Labs - Individual Team Meetings with TAs on Sundays or Mondays (Determined by Teams + TA)
 
-project_due_date: "11:59 PM on Tuesday May 2"
+project_due_date: "11:59 PM on TBD"
 
 sprint_1:
   name: Sprint 1
   goal: Project Organization
-  meeting_dates: February 5 or 6
+  meeting_dates: TBD
 
 sprint_2:
   name: Sprint 2
   goal: Requirements Elicitation
-  meeting_dates: February 12 or 13
+  meeting_dates: TBD
 
 sprint_3:
   name: Sprint 3
   goal: Login Integration
-  meeting_dates: February 26 or 27
+  meeting_dates: TBD
 
 sprint_4:
   name: Sprint 4
   goal: API Integration + Major Feature
-  meeting_dates: March 19 or 20
+  meeting_dates: TBD
 
 sprint_5:
   name: Sprint 5
   goal: Next Major Feature
-  meeting_dates: April 2 or 3
+  meeting_dates: TBD
 
 sprint_6:
   name: Sprint 6
   goal: Beta Version
-  meeting_dates: April 16 or 17
+  meeting_dates: TBD
