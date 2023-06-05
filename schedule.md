@@ -73,9 +73,9 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 
 <table class="schedtab"><thead>
 <tr>
-    <th>Date</th>
-    <th>Topic</th>
-    <th>Sprint Due</th>
+    <th>Week Of</th>
+    <th>Weekly Objective</th>
+    <th>Sprint</th>
     </tr>
     </thead>
     <tbody>
