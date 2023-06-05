@@ -58,7 +58,7 @@ We will not be using Discord for:
 * Direct messaging the staff about code questions, etc. (use Piazza)
 * Direct messaging the faculty about sensitive / grading issues (use private messages in Piazza or email)
 
-More information about joining our Discord server will be available in Collab at the start of the semester.
+More information about joining our Discord server will be available in Canvas at the start of the semester.
 
 ### Piazza
 {: .no_toc }
@@ -91,7 +91,7 @@ We will not be using email for:
 * Project questions (use Piazza)
 * Guided Practice questions (use Piazza)
 
-You should, in general, email the professor for the section that you are enrolled in.  You do not need to CC the other professor; we will get the other person involved if necessary.  _PLEASE_ make sure to put "CS 3240" in the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We both receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
+You should, in general, email the professor for the section that you are enrolled in.  _PLEASE_ make sure to put "CS 3240" in the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We all receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
 
 ### Where or who do I ask about...?
 {: .no_toc }
@@ -104,7 +104,7 @@ You should, in general, email the professor for the section that you are enrolle
 * Personal issues -> Email your professor
 * Team issues -> Email your TA and/or your professor
 
-For the context of the project, you should consider the professors "upper management" and the TAs "senior developers / managers."  Thus, high-level, requirements-based, or course-management sort of questions should go to the professors, while all technical and initial grading questions should to go the TAs.  (Honestly, you're probably going to get a faster, better answer to a Django question if you go to the TAs... sure, the professors can answer it... eventually... after a lot of Googling... but you could also ask a TA who did the project last semester or has been a TA for several semesters...)
+For the context of the project, you should consider the professor "upper management" and the TAs "senior developers / managers."  Thus, high-level, requirements-based, or course-management sort of questions should go to the professor, while all technical and initial grading questions should to go the TAs.  (Honestly, you're probably going to get a faster, better answer to a Django question if you go to the TAs... sure, the professor can answer it... eventually... after a lot of Googling... but you could also ask a TA who did the project last semester or has been a TA for several semesters...)
 
 ## Course Description
 Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. 
@@ -181,20 +181,20 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
   - Attending team meetings (both with and without the TA)
   - Collaborating on code with team members
   - Committing working, meaningful code to the project on the main branch that makes it to the final version of the system (e.g. coding a feature of the system, not just fixing deployment issues or adding test cases)
-* Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  This may be represented as a negative team evaluation score in our system so as to make the penalty clear to the staff and student.
+* Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  We do this because if the student did not fully participate, then that XP was not properly assigned because they gained no experience through the work.  Removing XP will be represented as a negative team evaluation score in our system so as to make the penalty clear to the staff and student.
 
 ### Final Exam and Project Demos
 {: .no_toc }
 
 __Final Exam:__ The final exam in this course is an opportunity to show mastery of material that was previously missed on earlier quizzes.  If a student has earned the maximum number of points on the three quizzes, they have a set of scores they are comfortable with, or if they already have an A in the course, the student does not (and should not) take the final exam.  If a student wishes to take the final exam, they can earn back up to 100 XP total toward the available 300 XP from quizzes.  We will create a custom final exam for each student based upon only the questions the student missed on the previous three quizzes.  While it is possible to lose points on the final exam, this is a relatively rare occurance, usually stemming from wild guessing on questions.  Students can come to either exam session, regardless of enrolled section.
 
-__Project Demos:__ Student teams will demo their final project to one of the professors in the days following the last day of class.  All students are expected to attend the demo for their team.  Demos should only last around 20 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.
+__Project Demos:__ Student teams will demo their final project to a professor in the days following the last day of class.  All students are expected to attend the demo for their team.  Demos should only last around 20 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.
 
 ## Class Management
 
 ### Project Groups
 {: .no_toc }
-You are expected to work as a member of your group in this course and cooperate with your colleagues. Cooperation means attending group meetings, completing your assignments properly and on time, letting your group know if you will be out of contact, responding to e-mail from your group, and so on. If there is a lack of cooperation by any group member, it must be brought to the attention of the instructor as soon as it happens. If the lack of cooperation is serious, the offending group member’s semester grade will be lowered.  _Note that this can result in a student automatically failing the course!_
+You are expected to work as a member of your group in this course and cooperate with your colleagues. Cooperation means attending group meetings, completing your assignments properly and on time, letting your group know if you will be out of contact, responding to e-mail from your group, and so on. If there is a lack of cooperation by any group member, it must be brought to the attention of the instructor as soon as it happens. If the lack of cooperation is serious, the offending group member’s semester grade will be lowered (see information above under Assessment).  _Note that this can result in a student automatically failing the course!_
 
 ### Attendance
 {: .no_toc }
@@ -225,7 +225,7 @@ In this course, there will be a focus on working well together and learning abou
 * Following the honor code and other collaboration policies
 * Following any University health and safety regulations
 
-Students can and will be penalized for unprofessional behavior.
+Students can and will be penalized for unprofessional behavior.  This will be represented as a negative XP score on the Team/Staff Evaluation.
 
 ## Academic Integrity
 _Summary_:
@@ -251,7 +251,7 @@ In ALL cases, you need to cite all sources at the top of the file where the code
 
 ## How to Cite Code
 {: .no_toc }
-Use the following format as an example for citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Order by title of the software package.  Use the appropriate commenting format for the programming language of your source code.  Below is a genearl example of a citation format.  Does yours have to look *exactly* like this?  No, nor does it have to have all the fields.  It does have to have enough to give the proper credit and so we can find the resource if needed.
+Use the following general format as an example for citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Order by title of the software package.  Use the appropriate commenting format for the programming language of your source code.  Below is a genearl example of a citation format.  Does yours have to look *exactly* like this?  No, nor does it have to have all the fields.  It does have to have enough to give the proper credit and so we can find the resource if needed.
 
 ```
 /***************************************************************************************

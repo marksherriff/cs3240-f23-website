@@ -1,10 +1,13 @@
 - topic: Course Intro and What is Software Engineering?
   type: lecture
   date: 08/22
-  coursepack: https://www.cs3240.org/modules/process/what-is-se/
+  coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
   guided_practice:
   artifact: 
   form:
   sprint_report:
   django:
-- topic: 
+- topic: What is Software Engineering?
+  type: lecture
+  date: 08/24
+  coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'

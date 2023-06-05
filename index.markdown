@@ -8,12 +8,13 @@ permalink: /
 
 # CS 3240 - Fall 2023
 ## Advanced Software Development Techniques
-_aka Software Engineering_
+_aka Software Engineering_     
+Our course is structured around understanding the different aspects of the software development lifecycle.  During this course, students will learn to elicit and model software requirements, choose from various design options for a solution, implement a large software system in teams using a modified Scrum methodology, perform quality assurance, and learn about ethical and professional issues, such as diversity issues, how to handle data responsibly, and software licensing.
 
 [Online Coursepack]({{ site.data.externallinks.coursepack }}){: .btn  .btn-primary .mr-2 }
 [Gradescope]({{ site.data.externallinks.gradescope }}){: .btn .btn-primary .mr-2  }
 [Piazza]({{ site.data.externallinks.piazza }}){: .btn .btn-primary .mr-2  }
-[Collab]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
+[Canvas]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
 [GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
 ## Lecture and Lab Sessions
