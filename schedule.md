@@ -40,28 +40,15 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 {% if day.coursepack %}
     </a>
 {% endif %}
-{% if day.lectures or day.readings %}
-<br><span class="sched-sub">
-    {% if day.readings %}
-    Readings:
-    {% for read in day.readings %}
-    <a href="{{read.link}}">{{read.topic}}</a> 
-    {% endfor %}
-    {% endif %}
-    {% if day.lectures and day.readings %}
-    -
-    {% endif %}
-    {% if day.lectures %}
-    Slides:
-    {% for pdf in day.lectures %}
-    {% if pdf.link %}
-    <a href="{{pdf.link}}" alt="{{pdf.alt}}">{{pdf.time}}</a> 
-    {% else %}
-    <span title="{{pdf.alt}}">{{pdf.time}}</span> 
-    {% endif %}
-    {% endfor %}
-    {% endif %}
-    </span>
+{% if day.topic2 %}
+&
+{% if day.coursepack2 %}
+<a href="{{day.coursepack2}}">
+{% endif %}
+{{day.topic2}}
+{% if day.coursepack2 %}
+    </a>
+{% endif %}
 {% endif %}
 </td>
 <td class="sched">{{day.notes}}</td>

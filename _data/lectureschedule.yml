@@ -11,58 +11,65 @@
   type: lecture
   date: 08/24
   coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
-- topic: TBD
+- topic: Software Construction
   type: lecture
   date: 08/29
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/process/software-construction/
+- topic: Software Process
   type: lecture
   date: 08/31
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/process/software-process/
+- topic: Plan-Driven Methods
   type: lecture
   date: 09/05
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/process/plan-driven-methodologies/
+  topic2: Agile Methods
+  coursepack2: https://www.cs3240.org/modules/process/agile-methodologies/
+- topic: Requirements Engineering
   type: lecture
   date: 09/07
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/requirements/requirements-engineering/
+  topic2: Requirements Elicitation
+  coursepack2: https://www.cs3240.org/modules/requirements/requirements-elicitation/
+- topic: Requirements Specification
   type: lecture
   date: 09/12
-  coursepack: #
-- topic: TBD
-  type: lecture
+  coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
+- topic: Quiz 1 - Software Process and Requirements
+  type: quiz
   date: 09/14
-  coursepack: #
-- topic: TBD
+- topic: Risk Management
   type: lecture
   date: 09/19
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/requirements/risk-management/
+  topic2: Django
+- topic: Software Architecture
   type: lecture
   date: 09/21
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/architecture/arch-intro/
+- topic: Model / View / Controller
   type: lecture
   date: 09/26
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/architecture/mvc/
+  topic2: Web Application Architectures
+  coursepack2: https://www.cs3240.org/modules/architecture/internet-arch/
+- topic: REST
   type: lecture
   date: 09/28
-  coursepack: #
+  coursepack: https://www.cs3240.org/modules/architecture/rest/
+  topic2: Web Services
+  coursepack2: https://www.cs3240.org/modules/architecture/web-services/
 - topic: Fall Break
-  type: lecture
+  type: holiday
   date: 10/03
-  coursepack: #
-- topic: TBD
+- topic: Modularity
   type: lecture
   date: 10/05
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/design/modularity/
+- topic: Object-Oriented Decomposition
   type: lecture
   date: 10/10
-  coursepack: #
+  coursepack: https://www.cs3240.org/modules/design/decomposition/
 - topic: TBD
   type: lecture
   date: 10/12
