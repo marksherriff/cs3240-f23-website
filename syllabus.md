@@ -288,6 +288,10 @@ If you have already been approved for accommodations through SDAC, please send y
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
+### Health Accommodations
+{: .no_toc }
+It is in the best interest of everyone in our community to keep the spread of infectious disease to a minimum.  If you are ill, please do not come to class.  Lectures will be recorded and made available and you can follow along there.  Quiz accommodations can be made on a case-by-case basis.  Due to their team-based nature, certain Guided Practices cannot be made up, but we build in a free drop into the Guided Practice grading to handle these cases.  If a student must miss an excessive number of Guided Practices, they should meet with the instructor to discuss options.
+
 ### Religious Accommodations
 {: .no_toc }
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
@@ -309,13 +313,13 @@ __NOTE:__ These resources are available for BACS majors as well!  You are still 
 ### Learning
 {: .no_toc }
 * [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
-* [Blake Calhoun](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
+* [TBD - Search Ongoing](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
 * [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
 * [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
 
 ### Health and Wellbeing
 {: .no_toc }
-* [Assistant Dean of Students](https://engineering.virginia.edu/about/offices/office-graduate-programs/student-support-services#accordion716460), Student Safety and Support  
+* [Kelly Garrett - Assistant Dean of Students](https://engineering.virginia.edu/about/offices/office-graduate-programs/student-support-services#accordion716460), Student Safety and Support  
 * Elizabeth Ramirez-Weaver, CAPS counselor
 * Katie Fowler, CAPS counselor
 
