@@ -251,7 +251,7 @@ In ALL cases, you need to cite all sources at the top of the file where the code
 
 ## How to Cite Code
 {: .no_toc }
-Use the following general format as an example for citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Order by title of the software package.  Use the appropriate commenting format for the programming language of your source code.  Below is a genearl example of a citation format.  Does yours have to look *exactly* like this?  No, nor does it have to have all the fields.  It does have to have enough to give the proper credit and so we can find the resource if needed.
+Use the following general format as an example for citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Use the appropriate commenting format for the programming language of your source code.  Does yours have to look *exactly* like this?  No, it just has to have enough to give the proper credit and so we can find the resource if needed.
 
 ```
 /***************************************************************************************
@@ -269,7 +269,8 @@ Use the following general format as an example for citing code you use. You may 
 ```
 
 ## Policy on Use of Generative AI
-__Coming Soon__
+{: .no_toc }
+In general, I will treat the use of generative AI the same as I would a student asking for help on StackOverflow.  For coding questions (i.e. "How do I make Google login work with Django?"), 
 
 ## Miscellaneous Policies
 
