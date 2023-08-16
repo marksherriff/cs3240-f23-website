@@ -270,7 +270,9 @@ Use the following general format as an example for citing code you use. You may 
 
 ## Policy on Use of Generative AI
 {: .no_toc }
-In general, I will treat the use of generative AI the same as I would a student asking for help on StackOverflow.  For coding questions (i.e. "How do I make Google login work with Django?"), 
+In general, I will treat the use of generative AI the same as I would a student asking for help on StackOverflow or finding other sources of code.  For coding questions (i.e. "How do I make Google login work with Django?"), students are welcome to use generative AI.  This includes tools such as ChatGPT, GitHub Copilot, and other code completion systems.  (NOTE: I actually asked ChatGPT the question above and it came back with a pretty good answer!  I suggest trying it!)  
+
+For artifact documents and other writing prompts, generative AI is discouraged and honestly won't be of too much help regardless.  While these tools can give you some impressive boilerplate text that would work for a generic presentation, it's not going to have the specific details of what your team had to do to make your project a success, and that's what we are specifically assessing.  So, if you lean too heavily on generative AI, your submission isn't going to earn much XP (if any) because I really don't want to read a bunch of generic "why is devops good" sort of text.  I care a lot more about how your team was impacted.
 
 ## Miscellaneous Policies
 
