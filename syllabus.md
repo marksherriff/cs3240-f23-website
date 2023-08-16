@@ -268,6 +268,9 @@ Use the following general format as an example for citing code you use. You may 
 ***************************************************************************************/
 ```
 
+## Policy on Use of Generative AI
+__Coming Soon__
+
 ## Miscellaneous Policies
 
 ### Inclement Weather Policy
