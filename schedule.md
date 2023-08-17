@@ -62,7 +62,7 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 <tr>
     <th>Week Of</th>
     <th>Weekly Objective</th>
-    <th>Sprint</th>
+    <th>Deliverable</th>
     </tr>
     </thead>
     <tbody>
