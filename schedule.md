@@ -61,53 +61,22 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 <table class="schedtab"><thead>
 <tr>
     <th>Week Of</th>
-    <th>Weekly Objective</th>
-    <th>Deliverable</th>
+    <th>Objective</th>
+    <th>Deliverable Due Sunday @ Noon</th>
     </tr>
     </thead>
     <tbody>
 {% for day in site.data.labschedule %}
 {% if day.type == 'holiday' %}
 <tr class="holiday">
-{% elsif day.type == 'quiz' %}
+{% elsif day.type == 'sprint_check' %}
 <tr class="quiz">
 {% else %}
 <tr>
 {% endif %}
 <td class="text-center sched">{{day.date}}</td>
-<td class="sched">
-{% if day.coursepack %}
-<a href="{{day.coursepack}}">
-{% endif %}
-{{day.topic}}
-{% if day.coursepack %}
-    </a>
-{% endif %}
-{% if day.lectures or day.readings %}
-<br><span class="sched-sub">
-    {% if day.readings %}
-    Readings:
-    {% for read in day.readings %}
-    <a href="{{read.link}}">{{read.topic}}</a> 
-    {% endfor %}
-    {% endif %}
-    {% if day.lectures and day.readings %}
-    -
-    {% endif %}
-    {% if day.lectures %}
-    Slides:
-    {% for pdf in day.lectures %}
-    {% if pdf.link %}
-    <a href="{{pdf.link}}" alt="{{pdf.alt}}">{{pdf.time}}</a> 
-    {% else %}
-    <span title="{{pdf.alt}}">{{pdf.time}}</span> 
-    {% endif %}
-    {% endfor %}
-    {% endif %}
-    </span>
-{% endif %}
-</td>
-<td class="sched">{{day.notes}}</td>
+<td class="sched">{{day.topic}}</td>
+<td class="sched">{{day.deliverable}}</td>
 </tr>
 {% endfor %}
 </tbody></table>

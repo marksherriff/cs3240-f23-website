@@ -1,60 +1,60 @@
 - topic: No Team Meetings (No teams assigned yet)
+  type: holiday
+  date: 08/27-09/02
+  deliverable: None
+- topic: Sprint 1 Begins - Team Organization
   type: lab
-  date: 08/27-08/28
-  sprint_report: #
-- topic: Sprint 1 Begins - First Team Meeting
+  date: 09/03-09/09
+  deliverable: None
+- topic: Sprint 2 Begins - Requirements Elicitation
   type: lab
-  date: 09/03-09/04
-  sprint_report: #
+  date: 09/10-09/16
+  deliverable: S1 - Team Declaration Form
 - topic: Team Meeting
   type: lab
-  date: 09/10-09/11
-  sprint_report: #
-- topic: Team Meeting
+  date: 09/17-09/23
+  deliverable: None
+- topic: Sprint 3 Begins - Heroku + Google Login
   type: lab
-  date: 09/17-09/18
-  sprint_report: #
-- topic: Team Meeting
-  type: lab
-  date: 09/24-09/25
-  sprint_report: #
+  date: 09/24-09/30
+  deliverable: S2 - Requirements Doc + GitHub Issues
 - topic: Fall Break (No Meetings)
+  type: holiday
+  date: 10/01-10/07
+  deliverable: None
+- topic: Sprint 4 Begins - Project Milestone 1
   type: lab
-  date: 10/01-10/02
-  sprint_report: #
+  date: 10/08-10/14
+  deliverable: S3 - App w/ Google Login on Heroku
 - topic: Team Meeting
   type: lab
-  date: 10/08-10/09
-  sprint_report: #
+  date: 10/15-10/21
+  deliverable: None
+- topic: Sprint 5 Begins - Project Milestone 2
+  type: lab
+  date: 10/22-10/28
+  deliverable: S4 - Project Milestone 1 Features
 - topic: Team Meeting
   type: lab
-  date: 10/15-10/16
-  sprint_report: #
+  date: 10/29-11/04
+  deliverable: None
+- topic: Sprint 6 Begins - Beta Version Completion
+  type: lab
+  date: 11/05-11/11
+  deliverable: S5 - Project Milestone 2 Features
+- topic: Beta Testing Begins
+  type: lab
+  date: 11/12-11/18
+  deliverable: S6 - Complete Beta Version of App
 - topic: Team Meeting
   type: lab
-  date: 10/22-10/23
-  sprint_report: #
-- topic: Team Meeting
+  date: 11/19-11/25
+  deliverable: None
+- topic: Final Version Sprint Begins
   type: lab
-  date: 10/29-10/30
-  sprint_report: #
-- topic: Team Meeting
+  date: 11/26-12/02
+  deliverable: Beta Testing Report
+- topic: Project Due
   type: lab
-  date: 11/05-11/06
-  sprint_report: #
-- topic: Team Meeting
-  type: lab
-  date: 11/12-11/13
-  sprint_report: #
-- topic: Team Meeting
-  type: lab
-  date: 11/19-11/20
-  sprint_report: #
-- topic: Team Meeting
-  type: lab
-  date: 11/26-11/27
-  sprint_report: #
-- topic: Team Meeting
-  type: lab
-  date: 12/03-12/04
-  sprint_report: #
+  date: 12/03 @ 11:59 PM EST
+  deliverable: Final Code Submission + Team Pledge
