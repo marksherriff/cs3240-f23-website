@@ -1,4 +1,4 @@
-- topic: No Team Meetings (No teams assigned yet)
+- topic: No Team Meetings (No teams yet)
   type: holiday
   date: 08/27-09/02
   deliverable: None
@@ -6,7 +6,7 @@
   type: lab
   date: 09/03-09/09
   deliverable: None
-- topic: Sprint 2 Begins - Requirements Elicitation
+- topic: Sprint 2 Begins - Requirements
   type: lab
   date: 09/10-09/16
   deliverable: S1 - Team Declaration Form
@@ -38,7 +38,7 @@
   type: lab
   date: 10/29-11/04
   deliverable: None
-- topic: Sprint 6 Begins - Beta Version Completion
+- topic: Sprint 6 Begins - Beta Version
   type: lab
   date: 11/05-11/11
   deliverable: S5 - Project Milestone 2 Features
@@ -56,5 +56,5 @@
   deliverable: Beta Testing Report
 - topic: Project Due
   type: lab
-  date: 12/03 @ 11:59 PM EST
+  date: 12/03 @ 11:59 PM
   deliverable: Final Code Submission + Team Pledge

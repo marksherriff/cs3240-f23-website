@@ -11,7 +11,7 @@
   type: lecture
   date: 08/24
   coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
-- topic: Software Construction
+- topic: Software Construction & Project Info
   type: lecture
   date: 08/29
   coursepack: https://www.cs3240.org/modules/process/software-construction/
@@ -19,15 +19,19 @@
   type: lecture
   date: 08/31
   coursepack: https://www.cs3240.org/modules/process/software-process/
-- topic: Plan-Driven Methods
+  topic2: Plan-Driven Methods
+  coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
+- topic: Agile Methods
   type: lecture
   date: 09/05
-  coursepack: https://www.cs3240.org/modules/process/plan-driven-methodologies/
-  topic2: Agile Methods
-  coursepack2: https://www.cs3240.org/modules/process/agile-methodologies/
-- topic: Requirements Engineering
+  coursepack: https://www.cs3240.org/modules/process/agile-methodologies/
+- topic: Working on a Software Team
   type: lecture
   date: 09/07
+  coursepack: #
+- topic: Requirements Engineering
+  type: lecture
+  date: 09/12
   coursepack: https://www.cs3240.org/modules/requirements/requirements-engineering/
   topic2: Requirements Elicitation
   coursepack2: https://www.cs3240.org/modules/requirements/requirements-elicitation/
