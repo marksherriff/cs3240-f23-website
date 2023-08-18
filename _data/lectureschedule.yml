@@ -7,134 +7,154 @@
   form:
   sprint_report:
   django:
+
 - topic: What is Software Engineering?
   type: lecture
   date: 08/24
   coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
+
 - topic: Software Construction & Project Info
   type: lecture
   date: 08/29
   coursepack: https://www.cs3240.org/modules/process/software-construction/
+
 - topic: Software Process
   type: lecture
   date: 08/31
   coursepack: https://www.cs3240.org/modules/process/software-process/
   topic2: Plan-Driven Methods
   coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
+
 - topic: Agile Methods
   type: lecture
   date: 09/05
   coursepack: https://www.cs3240.org/modules/process/agile-methodologies/
+
 - topic: Working on a Software Team
   type: lecture
   date: 09/07
   coursepack: #
+
 - topic: Requirements Engineering
   type: lecture
   date: 09/12
   coursepack: https://www.cs3240.org/modules/requirements/requirements-engineering/
   topic2: Requirements Elicitation
   coursepack2: https://www.cs3240.org/modules/requirements/requirements-elicitation/
+
 - topic: Requirements Specification
   type: lecture
-  date: 09/12
-  coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
-- topic: Quiz 1 - Software Process and Requirements
-  type: quiz
   date: 09/14
+  coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
+
 - topic: Risk Management
   type: lecture
   date: 09/19
   coursepack: https://www.cs3240.org/modules/requirements/risk-management/
-  topic2: Django
-- topic: Software Architecture
-  type: lecture
+
+- topic: Quiz 1 - Software Process and Requirements
+  type: quiz
   date: 09/21
-  coursepack: https://www.cs3240.org/modules/architecture/arch-intro/
-- topic: Model / View / Controller
+
+- topic: Django, Heroku, and DevOps
   type: lecture
   date: 09/26
+
+- topic: Software Architecture
+  type: lecture
+  date: 09/28
+  coursepack: https://www.cs3240.org/modules/architecture/arch-intro/
+
+- topic: Fall Break (No classes)
+  type: holiday
+  date: 10/03
+
+- topic: Model / View / Controller
+  type: lecture
+  date: 10/05
   coursepack: https://www.cs3240.org/modules/architecture/mvc/
   topic2: Web Application Architectures
   coursepack2: https://www.cs3240.org/modules/architecture/internet-arch/
+
 - topic: REST
   type: lecture
-  date: 09/28
+  date: 10/10
   coursepack: https://www.cs3240.org/modules/architecture/rest/
   topic2: Web Services
   coursepack2: https://www.cs3240.org/modules/architecture/web-services/
-- topic: Fall Break
-  type: holiday
-  date: 10/03
-- topic: Modularity
-  type: lecture
-  date: 10/05
-  coursepack: https://www.cs3240.org/modules/design/modularity/
-- topic: Object-Oriented Decomposition
-  type: lecture
-  date: 10/10
-  coursepack: https://www.cs3240.org/modules/design/decomposition/
-- topic: TBD
+
+- topic: Modularity Review
   type: lecture
   date: 10/12
-  coursepack: #
-- topic: TBD
+  coursepack: https://www.cs3240.org/modules/design/modularity/
+
+- topic: Communicating Design Decisions
   type: lecture
   date: 10/17
   coursepack: #
-- topic: TBD
+
+- topic: Software Usability
   type: lecture
   date: 10/19
   coursepack: #
-- topic: TBD
+
+- topic: Software Usability
   type: lecture
   date: 10/24
   coursepack: #
-- topic: TBD
-  type: lecture
+
+- topic: Quiz 2 - Software Architecture and Design
+  type: quiz
   date: 10/26
-  coursepack: #
-- topic: TBD
+
+- topic: Verification and Validation
   type: lecture
   date: 10/31
   coursepack: #
-- topic: TBD
+
+- topic: V&V Techniques
   type: lecture
   date: 11/02
   coursepack: #
+
 - topic: Election Day (No classes)
-  type: lecture
+  type: holiday
   date: 11/07
-  coursepack: #
-- topic: TBD
+  
+- topic: SE Code of Ethics
   type: lecture
   date: 11/09
   coursepack: #
-- topic: TBD
+
+- topic: DEI in Software Engineering
   type: lecture
   date: 11/14
   coursepack: #
-- topic: TBD
+
+- topic: Building Secure Software
   type: lecture
   date: 11/16
   coursepack: #
-- topic: TBD
+
+- topic: Releasing Software
   type: lecture
   date: 11/21
   coursepack: #
-- topic: Thanksgiving Break
-  type: lecture
+
+- topic: Thanksgiving Break (No classes)
+  type: holiday
   date: 11/23
-  coursepack: #
-- topic: TBD
+
+- topic: Software Maintenance
   type: lecture
   date: 11/28
   coursepack: #
-- topic: TBD
+
+- topic: Software Licensing
   type: lecture
   date: 11/30
   coursepack: #
-- topic: Last day of class
-  type: lecture
+
+- topic: Quiz 3 - V&V and Software Maintenance
+  type: quiz
   date: 12/05
-  coursepack: #
