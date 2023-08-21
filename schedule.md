@@ -75,7 +75,15 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 <tr>
 {% endif %}
 <td class="text-center sched">{{day.date}}</td>
-<td class="sched">{{day.topic}}</td>
+<td class="sched">
+{% if day.link %}
+<a href="{{day.link}}">
+{% endif %}
+{{day.topic}}
+{% if day.link %}
+</a>
+{% endif %}
+</td>
 <td class="sched">{{day.deliverable}}</td>
 </tr>
 {% endfor %}

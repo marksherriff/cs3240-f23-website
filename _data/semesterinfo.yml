@@ -3,34 +3,52 @@ lecture_sections:
   - Lecture 002 - Tuesdays and Thursdays @ 9:30 AM-10:45 AM in Rice 130   
   - Labs - Individual Team Meetings with TAs on Sundays or Mondays (Determined by Teams + TA)
 
-project_due_date: "11:59 PM on TBD"
+project_due_date: "11:59 PM on Sunday, December 3"
 
 sprint_1:
   name: Sprint 1
-  goal: Project Organization
-  meeting_dates: TBD
+  goal: Team Organization
+  duration: 09/03-09/09
+  sprint_check: 09/10
 
 sprint_2:
   name: Sprint 2
   goal: Requirements Elicitation
-  meeting_dates: TBD
+  duration: 09/10-09/23
+  sprint_check: 09/24
 
 sprint_3:
   name: Sprint 3
-  goal: Login Integration
-  meeting_dates: TBD
+  goal: Heroku + Google Login
+  duration: 09/24-10/07
+  sprint_check: 10/08
 
 sprint_4:
   name: Sprint 4
-  goal: API Integration + Major Feature
-  meeting_dates: TBD
+  goal: Project Milestone 1
+  duration: 10/08-10/21
+  sprint_check: 10/22
 
 sprint_5:
   name: Sprint 5
-  goal: Next Major Feature
-  meeting_dates: TBD
+  goal: Project Milestone 2
+  duration: 10/22-11/04
+  sprint_check: 11/05
 
 sprint_6:
   name: Sprint 6
   goal: Beta Version
-  meeting_dates: TBD
+  duration: 11/05-11/11
+  sprint_check: 11/12
+
+beta_testing:
+  name: Beta Testing
+  goal: Beta Testing
+  duration: 11/12-11/25
+  sprint_check: 11/26
+
+final_version:
+  name: Final Version
+  goal: Final Version
+  duration: 11/26-12/02
+  spring_check: 12/03
