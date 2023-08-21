@@ -17,7 +17,7 @@
   type: lecture
   date: 08/29
   coursepack: https://www.cs3240.org/modules/process/software-construction/
-  due: GP-A (Gradescope)
+  due: "GP-A: GitHub (Gradescope)"
   due_link: "https://docs.google.com/document/d/19YID72qLqowuC7oB8JzMK3UJa-ZcTteluGTrJUGR_Ow/edit?usp=sharing"
 
 - topic: Software Process
@@ -33,11 +33,15 @@
   type: lecture
   date: 09/05
   coursepack: https://www.cs3240.org/modules/process/agile-methodologies/
+  due: "GP-B: Polar Chart (In Class)"
+  due_link: #
 
 - topic: Working on a Software Team
   type: lecture
   date: 09/07
   coursepack: #
+  due: "GP-C: Web Design (Gradescope)"
+  due_link: #
 
 - topic: Requirements Engineering
   type: lecture
@@ -50,6 +54,8 @@
   type: lecture
   date: 09/14
   coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
+  due: "GP-D: Planning Game (In Class)"
+  due_link: #
 
 - topic: Risk Management
   type: lecture
@@ -68,6 +74,8 @@
   type: lecture
   date: 09/28
   coursepack: https://www.cs3240.org/modules/architecture/arch-intro/
+  due: "Django Practice (Gradescope)"
+  due_link: #
 
 - topic: Fall Break (No classes)
   type: holiday
@@ -86,6 +94,8 @@
   coursepack: https://www.cs3240.org/modules/architecture/rest/
   topic2: Web Services
   coursepack2: https://www.cs3240.org/modules/architecture/web-services/
+  due: "GP-E: Frameworks (Gradescope)"
+  due_link: #
 
 - topic: Modularity Review
   type: lecture
@@ -96,6 +106,8 @@
   type: lecture
   date: 10/17
   coursepack: #
+  due: "GP-F: Communication (In Class)"
+  due_link: #
 
 - topic: Software Usability
   type: lecture
@@ -106,6 +118,8 @@
   type: lecture
   date: 10/24
   coursepack: #
+  due: "GP-G: Wireframes (In Class)"
+  due_link: #
 
 - topic: Quiz 2 - Software Architecture and Design
   type: quiz
@@ -129,6 +143,8 @@
   type: lecture
   date: 11/09
   coursepack: #
+  due: "GP-H: Ethics (In Class)"
+  due_link: #
 
 - topic: DEI in Software Engineering
   type: lecture
@@ -140,24 +156,28 @@
   date: 11/16
   coursepack: #
 
-- topic: Releasing Software
+- topic: Software Maintenance
   type: lecture
   date: 11/21
   coursepack: #
+  due: "GP-I: Security (Gradescope)"
+  due_link: #
 
 - topic: Thanksgiving Break (No classes)
   type: holiday
   date: 11/23
 
-- topic: Software Maintenance
+- topic: Software Licensing
   type: lecture
   date: 11/28
   coursepack: #
 
-- topic: Software Licensing
+- topic: Releasing Software
   type: lecture
   date: 11/30
   coursepack: #
+  due: "GP-J: Licenses (Gradescope)"
+  due_link: #
 
 - topic: Quiz 3 - V&V and Professional Issues
   type: quiz
