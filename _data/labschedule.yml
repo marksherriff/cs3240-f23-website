@@ -56,13 +56,13 @@
 - topic: Team Meeting
   type: lab
   date: 11/19-11/25
-  deliverable: None
+  deliverable: DevOps Report
 - topic: "Final Version Sprint Begins"
   type: lab
   date: 11/26-12/02
-  deliverable: "Beta Testing Report"
+  deliverable: "Beta Testing Report + Usability Assessment"
   link: "/project.html#final-version"
 - topic: Project Due
   type: lab
   date: 12/03 @ 11:59 PM
-  deliverable: "Final Code Submission + Team Pledge"
+  deliverable: "Team Pledge + Scrum Master Report"
