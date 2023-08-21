@@ -17,6 +17,8 @@
   type: lecture
   date: 08/29
   coursepack: https://www.cs3240.org/modules/process/software-construction/
+  due: GP-A (Gradescope)
+  due_link: "https://docs.google.com/document/d/19YID72qLqowuC7oB8JzMK3UJa-ZcTteluGTrJUGR_Ow/edit?usp=sharing"
 
 - topic: Software Process
   type: lecture
@@ -24,6 +26,8 @@
   coursepack: https://www.cs3240.org/modules/process/software-process/
   topic2: Plan-Driven Methods
   coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
+  due: Team Pref. Form
+  due_link: #
 
 - topic: Agile Methods
   type: lecture

@@ -51,7 +51,17 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 {% endif %}
 {% endif %}
 </td>
-<td class="sched">{{day.notes}}</td>
+<td class="sched">
+{% if day.due %}
+{% if day.due_link%}
+<a href="{{day.due_link}}">
+{% endif %}
+{{day.due}}
+{% if day.due_link%}
+</a>
+{% endif %}
+{% endif %}
+</td>
 </tr>
 {% endfor %}
 </tbody></table>
