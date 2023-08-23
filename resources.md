@@ -36,7 +36,8 @@ This tool is great because it tells you whether you are passing WCAG contrast gu
 
 * [Creating python virtual env](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 * [Tutorial on the basics of Django (YouTube Series)](https://www.youtube.com/watch?v=UmljXZIypDc)
-* [Django generic editing views](https://docs.djangoproject.com/en/3.1/ref/class-based-views/generic-editing/)
+* [Django generic editing views](https://docs.djangoproject.com/en/4.2/ref/class-based-views/generic-editing/)
+* [Serving static images for your project](https://docs.djangoproject.com/en/4.2/howto/static-files/deployment/)
 
 ## Heroku Resources
 * [Deploying Django project to Heroku](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
