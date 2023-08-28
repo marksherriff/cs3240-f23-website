@@ -28,8 +28,7 @@ __Instructor:__ {{ professor.name }}
 Office: {{ professor.office }}   
 Office Hours: {{ professor.office_hours }}        
 Email: [{{ professor.email }}]({{ professor.email }})   
-Website: [{{ professor.website }}]({{ professor.website }})   
-[Schedule a Meeting w/ {{professor.name}}]({{ professor.meeting}})   
+Website: [{{ professor.website }}]({{ professor.website }})     
 
 {% endfor %}
 
