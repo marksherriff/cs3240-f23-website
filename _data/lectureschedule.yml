@@ -27,7 +27,7 @@
   topic2: Plan-Driven Methods
   coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
   due: Project Preference Form
-  due_link: #
+  due_link: 'http://f23.cs3240.org/preference'
 
 - topic: Agile Methods
   type: lecture
