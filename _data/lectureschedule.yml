@@ -40,8 +40,6 @@
   type: lecture
   date: 09/07
   coursepack: #
-  due: "GP-C: Web Design (Gradescope)"
-  due_link: #
 
 - topic: Requirements Engineering
   type: lecture
@@ -54,7 +52,7 @@
   type: lecture
   date: 09/14
   coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
-  due: "GP-D: Planning Game (In Class)"
+  due: "GP-C: Planning Game (In Class)"
   due_link: #
 
 - topic: Risk Management
@@ -94,7 +92,7 @@
   coursepack: https://www.cs3240.org/modules/architecture/rest/
   topic2: Web Services
   coursepack2: https://www.cs3240.org/modules/architecture/web-services/
-  due: "GP-E: Frameworks (Gradescope)"
+  due: "GP-D: Frameworks (Gradescope)"
   due_link: #
 
 - topic: Modularity Review
@@ -106,7 +104,7 @@
   type: lecture
   date: 10/17
   coursepack: #
-  due: "GP-F: Communication (In Class)"
+  due: "GP-E: Communication (In Class)"
   due_link: #
 
 - topic: Software Usability
@@ -118,7 +116,7 @@
   type: lecture
   date: 10/24
   coursepack: #
-  due: "GP-G: Wireframes (In Class)"
+  due: "GP-F: Wireframes (In Class)"
   due_link: #
 
 - topic: Quiz 2 - Software Architecture and Design
@@ -134,6 +132,8 @@
   type: lecture
   date: 11/02
   coursepack: #
+  due: "GP-G: V&V Techniques (In Class)"
+  due_link: #
 
 - topic: Election Day (No classes)
   type: holiday
