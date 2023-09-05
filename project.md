@@ -36,8 +36,12 @@ All projects must do the following, regardless of idea chosen:
 
 These are the _base_ requirements for your projects and are here to ensure that all three projects are of basically the same complexity.  Projects that only complete these features will not earn much XP.  You will add more use cases for both the student and admin users during your requirements elicitation activities.
 
-### Project Option 1: TBD
+### Project Option 1: Hidden Locations
 {: .no_toc }
+
+Locations are “hidden” and clues and maps are used to find the locations
+How the locations are found can be up to the team/requirements
+
 
 ### Project Option 2: TBD
 {: .no_toc }
