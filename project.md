@@ -28,7 +28,7 @@ All projects must do the following, regardless of idea chosen:
 * All projects must incorporate Google user accounts as the primary way that someone logs into the system.  You will need to use the Google account API to make this work.  There are several libraries that are built for Django to work with Google accounts with tutorials.
 * You will have to create two different user access levels for each project.  This will take a slightly different form with each project, but the basic idea is some users will be “common” users and some users will be “administrative” users.  Users of one type _should not_ be able to access features of the other type!
 * The two test accounts we will use will be: common user - cs3240.student@gmail.com and admin user - cs3240.super@gmail.com
-* All projects must incorporate the API that we will provide information about.
+* All projects must incorporate the Google Maps Javascript API - [https://developers.google.com/maps/documentation/javascript](https://developers.google.com/maps/documentation/javascript).  How you implement it and utilize it is up to your team, within reason.
 * All projects must be built using the prescribed language (Python 3), framework (Django 4), build environment (GitHub Actions CI), source control management (GitHub), and cloud hosting (Heroku).  No exceptions to these will be granted.
 * All projects must use the PostgreSQL database engine for production on Heroku and continuous integration (on GitHub Actions).  You are allowed to use SQLite for local testing so you do not have to install PostgreSQL on your own machine, but another option is to change your `settings.py` file point to the PostgreSQL DB on Heroku at all times.  
 
@@ -36,18 +36,15 @@ All projects must do the following, regardless of idea chosen:
 
 These are the _base_ requirements for your projects and are here to ensure that all three projects are of basically the same complexity.  Projects that only complete these features will not earn much XP.  You will add more use cases for both the student and admin users during your requirements elicitation activities.
 
-### Project Option 1: Hidden Locations
+### Project Domain 1: Hidden Locations
 {: .no_toc }
 
-Locations are “hidden” and clues and maps are used to find the locations
-How the locations are found can be up to the team/requirements
+Projects in this domain will in some way "hide" locations from users and encourage them to find them.  One prominent example is geocaching (example information at [https://www.geocaching.com/play](https://www.geocaching.com/play)).  There are other things you could do in this category as well, including puzzle hunts or other surprises.  Some optional features that you may add include leaderboards, user comments, and much more.  For this domain, regular users should be able to "do the hunt" for the locations and can submit their own hunts/locations for others to find.  However, these additions SHOULD NOT appear until an administrative user logs in and approves the submission.  Once it is approved, it can appear for everyone.  Administrators can also deny submissions, sending a reason along with it to the user in the app (not outside the app via email, etc.).
 
-
-### Project Option 2: TBD
+### Project Domain 2: Known Locations
 {: .no_toc }
 
-### Project Option 3: TBD
-{: .no_toc }
+Projects in this domain will make locations known to users up front as a way to help guide them or find something around Grounds.  Some examples include points of interest for incoming first years, the best places on Grounds to go for a run, or historic locations.  Keep your app focused on guiding the users and don't try to add a lot of "other" functionality.  Something like rating a location or leaving comments is fine.  Adding a feature schedule a time to meet someone at a location is too much.  For this domain, regular users should be able to propose new locations and can submit their own locations to be added to the app's database.  However, these additions SHOULD NOT appear until an administrative user logs in and approves the submission.  Once it is approved, it can appear for everyone.  Administrators can also deny submissions, sending a reason along with it to the user in the app (not outside the app via email, etc.).
 
 ## Team Roles
 
@@ -88,11 +85,12 @@ __UX Designer__ - The UX (user experience) Designer is responsible for the overa
 
 _Major Artifact_: [Usability Assessment]({{ site.data.externallinks.ux_report_template }}), due near the end of the semester  
 
+__Sixth Team Member__ - If your team has 6 members, the member without a role listed above should come to office hours with the professor to discuss options.  The role will be determined based on interest and needs of the team.
+
 ## Artifact Document Templates
 
 ### Team Documents
 {: .no_toc }
-[Project Management Spreadsheet]({{ site.data.externallinks.project_management_spreadsheet }})    
 [Sprint Report]({{ site.data.externallinks.sprint_report }})    
 [Final Submission Pledge]({{ site.data.externallinks.final_submission_pledge }})
 
