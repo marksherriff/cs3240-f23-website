@@ -7,8 +7,6 @@ nav_order: 4
 # Project Information
 {: .no_toc }
 
-__Currently under construction!  Nothing here is finalized!__
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -156,7 +154,7 @@ __Requirements:__ The team must have a reasonable set of user stories / issues i
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  Your GitHub Issues page should be populated with your team's project requirements.  The requirements manager should submit the requirements document to the appropriate assignment.  No other team members should submit the requirements document.
 
 ### Sprint 3: {{site.data.semesterinfo.sprint_3.goal}}
 
@@ -165,7 +163,7 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_3.sprint_check}}
 
 __Goal:__ All projects must have a user account feature for students to login with.  To accomplish this, you are to integrate Google login to your app.
 
-__Requirements:__ A user with a Google Account (not just a Netbadge account!) can login to the system and the system shows in some way that that user has indeed logged in.  You should not lock your app to just @virginia.edu accounts.  You must show that both a regular student account _and_ an admin account can login and that they get different screens.
+__Requirements:__ A user with a Google Account (not just a Netbadge account!) can login to the system and the system shows in some way that that user has indeed logged in.  You should not lock your app to just @virginia.edu accounts.  You must show that both a regular user account _and_ an admin account can login and that they get different screens.  Print the user's name and account name to the screen to show that it works.  If you want to start working on more requirements, you absolutely can do so.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
@@ -176,9 +174,9 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.
 __Sprint Duration:__  {{site.data.semesterinfo.sprint_4.duration}}    
 __Sprint Due:__ {{site.data.semesterinfo.sprint_4.sprint_check}}
 
-__Goal:__ All projects must make use of the API for reading information about classes.  For this sprint, create the infrastructure for doing this, showing that you can read information and display it to the screen in a meaningful way in the context of your app (i.e. not just dumping it on the screen).  You also must show that you have some form of search working.
+__Goal:__ There are two major milestones for all projects: incorporating the Google Maps API and providing a means for admin users to approve submissions from regular users.  For this sprint, create the infrastructure for doing one of these two things (Sprint 5 will focus on the milestone you don't choose) and implement it in a meaningful way in the system to show significant progress.  The milestone you choose is up to your team, based on the priority of your gathered requirements.
 
-__Requirements:__ In the opinion of the TA, significant work was accomplished this week utilizing the SIS API, such that it is visible and mostly usable in the system.  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.
+__Requirements:__ In the opinion of the TA, significant work was accomplished this week on one of the two milestones such that it is visible and mostly usable in the system.  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
@@ -189,9 +187,9 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.
 __Sprint Duration:__  {{site.data.semesterinfo.sprint_5.duration}}    
 __Sprint Due:__ {{site.data.semesterinfo.sprint_5.sprint_check}}
 
-__Goal:__ Move forward with the next major features of your application, showing that you are making significant progress.  Your app should be "functional" at this point, such that a user can login and use some of the basic features.
+__Goal:__ There are two major milestones for all projects: incorporating the Google Maps API and providing a means for admin users to approve submissions from regular users.  For this sprint, work on whichever milestone you did not work on for Sprint 4 and implement it in a meaningful way in the system to show significant progress. 
 
-__Requirements:__ In the opinion of the TA, significant work was accomplished this week other major features of the application, such that it is visible and mostly usable in the system.  GitHub Actions should still be working.
+__Requirements:__ In the opinion of the TA, significant work was accomplished this week on the other milestone such that it is visible and mostly usable in the system.  GitHub Actions CI must still be working.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
