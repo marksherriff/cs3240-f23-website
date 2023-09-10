@@ -7,12 +7,14 @@
   type: lab
   date: 09/03-09/09
   deliverable: None
+  duedate: 09/10
   link: "/project.html#sprint-1-team-organization"
 
 - topic: "Sprint 2 Begins: Requirements"
   type: lab
   date: 09/10-09/16
-  deliverable: "S1: Team Declaration Form"
+  deliverable: "S1 Ends: Team Declaration Form Due"
+  duedate: 09/24
   link: "/project.html#sprint-2-requirements-elicitation"
 
 - topic: Team Meeting
@@ -23,7 +25,8 @@
 - topic: "Sprint 3 Begins: Heroku + Google Login"
   type: lab
   date: 09/24-09/30
-  deliverable: "S2: Requirements Doc + GitHub Issues"
+  duedate: 10/08
+  deliverable: "S2 Ends: Requirements Doc + GitHub Issues Due"
   link: "/project.html#sprint-3-heroku--google-login"
 
 - topic: Fall Break (No Meetings)
@@ -34,7 +37,8 @@
 - topic: "Sprint 4 Begins: Project Milestone 1"
   type: lab
   date: 10/08-10/14
-  deliverable: "S3: App w/ Google Login on Heroku"
+  duedate: 10/22
+  deliverable: "S3 Ends: App w/ Google Login on Heroku Due"
   link: "/project.html#sprint-4-project-milestone-1"
 
 - topic: Team Meeting
@@ -45,7 +49,8 @@
 - topic: "Sprint 5 Begins: Project Milestone 2"
   type: lab
   date: 10/22-10/28
-  deliverable: "S4: Project Milestone 1 Features"
+  duedate: 11/05
+  deliverable: "S4 Ends: Project Milestone 1 Features Due"
   link: "/project.html#sprint-5-project-milestone-2"
 
 - topic: Team Meeting
@@ -56,13 +61,15 @@
 - topic: "Sprint 6 Begins: Beta Version"
   type: lab
   date: 11/05-11/11
-  deliverable: "S5: Project Milestone 2 Features"
+  duedate: 11/12
+  deliverable: "S5 Ends: Project Milestone 2 Features Due"
   link: "/project.html#sprint-6-beta-version"
 
 - topic: "Beta Testing Begins"
   type: lab
   date: 11/12-11/18
-  deliverable: "S6: Complete Beta Version of App"
+  duedate: 11/26
+  deliverable: "S6 Ends: Complete Beta Version of App Due"
   link: "/project.html#beta-testing"
 
 - topic: Team Meeting
@@ -73,10 +80,10 @@
 - topic: "Final Version Sprint Begins"
   type: lab
   date: 11/26-12/02
-  deliverable: "Beta Testing Report + Usability Assessment"
+  deliverable: "Beta Testing Report + Usability Assessment Due"
   link: "/project.html#final-version"
   
-- topic: Project Due
+- topic: Project Due @ 11:59 PM
   type: lab
-  date: 12/03 @ 11:59 PM
-  deliverable: "Team Pledge + Scrum Master Report"
+  date: 12/03 
+  deliverable: "Team Pledge + Scrum Master Report Due"
