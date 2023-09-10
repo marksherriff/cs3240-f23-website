@@ -6,7 +6,6 @@ nav_order: 3
 
 # Course Schedule
 {: .no_toc }
-__Currently under construction!  Nothing here is finalized!__
 
 _NOTE: Schedules are subject to change.  Watch this page for updates!_
 
