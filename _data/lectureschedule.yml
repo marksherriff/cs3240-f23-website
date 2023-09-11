@@ -52,13 +52,13 @@
   type: lecture
   date: 09/14
   coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
-  due: "GP-C: Planning Game (In Class)"
-  due_link: #
 
 - topic: Risk Management
   type: lecture
   date: 09/19
   coursepack: https://www.cs3240.org/modules/requirements/risk-management/
+  due: "GP-C: Planning Game (In Class)"
+  due_link: #
 
 - topic: Quiz 1 - Software Process and Requirements
   type: quiz
