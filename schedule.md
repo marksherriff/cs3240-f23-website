@@ -70,8 +70,8 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 <table class="schedtab"><thead>
 <tr>
     <th>Week Of</th>
-    <th>Sprint Info</th>
     <th>Deliverables Due This Sunday</th>
+    <th>Sprint Info</th>
     </tr>
     </thead>
     <tbody>
@@ -84,6 +84,14 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 <tr>
 {% endif %}
 <td class="text-center sched">{{day.date}}</td>
+<td class="sched">
+{{day.deliverable}}
+{% if day.deliverabledue %}
+<br><span class="sched-sub">
+Deliverable Due: Sunday {{day.deliverabledue}} at 12:00 PM
+</span>
+{% endif %}
+</td>
 <td class="sched">
 {% if day.link %}
 <a href="{{day.link}}">
@@ -99,9 +107,7 @@ Sprint Due: Sunday {{day.duedate}} at 12:00 PM
 </span>
 {% endif %}
 </td>
-<td class="sched">
-{{day.deliverable}}
-</td>
+
 </tr>
 {% endfor %}
 </tbody></table>
