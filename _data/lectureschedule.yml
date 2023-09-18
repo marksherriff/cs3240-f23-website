@@ -67,6 +67,7 @@
 - topic: Django, Heroku, and DevOps
   type: lecture
   date: 09/26
+  coursepack: https://www.cs3240.org/modules/architecture/Django-and-MVC/
 
 - topic: Software Architecture
   type: lecture
