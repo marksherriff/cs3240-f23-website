@@ -65,7 +65,7 @@ _NOTE: Schedules are subject to change.  Watch this page for updates!_
 {% endfor %}
 </tbody></table>
 
-_^ NOTE: Per the syllabus, a student's lowest GP score is converted to a max score at the end of the semester, which functions as one free skip.  In class Guided Practice activities cannot be made up due to the nature of the activities._
+_^ NOTE: Per the syllabus, a student's lowest GP score is converted to a max score at the end of the semester, which functions as one free skip.  In-class Guided Practice activities cannot be made up due to the nature of the activities._
 
 ## Project Schedule
 

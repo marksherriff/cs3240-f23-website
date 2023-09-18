@@ -33,7 +33,7 @@
   type: lecture
   date: 09/05
   coursepack: https://www.cs3240.org/modules/process/agile-methodologies/
-  due: "GP-B: Polar Chart (In Class^)"
+  due: "GP-B: Polar Chart (In-Class^)"
   due_link: "https://docs.google.com/document/d/196FtLyQ-fWZbqxfgXRthFtaSaiAkTYtT-E3WXWLS6o4/edit?usp=sharing"
 
 - topic: Working on a Software Team
@@ -57,7 +57,7 @@
   type: lecture
   date: 09/19
   coursepack: https://www.cs3240.org/modules/requirements/risk-management/
-  due: "GP-C: Planning Game (In Class^)"
+  due: "GP-C: Planning Game (In-Class^)"
   due_link: #
 
 - topic: Quiz 1 - Software Process and Requirements
@@ -105,7 +105,7 @@
   type: lecture
   date: 10/17
   coursepack: #
-  due: "GP-E: Communication (In Class^)"
+  due: "GP-E: Communication (In-Class^)"
   due_link: #
 
 - topic: Software Usability
@@ -117,7 +117,7 @@
   type: lecture
   date: 10/24
   coursepack: #
-  due: "GP-F: Wireframes (In Class^)"
+  due: "GP-F: Wireframes (In-Class^)"
   due_link: #
 
 - topic: Quiz 2 - Software Architecture and Design
@@ -133,7 +133,7 @@
   type: lecture
   date: 11/02
   coursepack: #
-  due: "GP-G: V&V Techniques (In Class^)"
+  due: "GP-G: V&V Techniques (In-Class^)"
   due_link: #
 
 - topic: Election Day (No classes)
@@ -144,7 +144,7 @@
   type: lecture
   date: 11/09
   coursepack: #
-  due: "GP-H: Ethics (In Class^)"
+  due: "GP-H: Ethics (In-Class^)"
   due_link: #
 
 - topic: DEI in Software Engineering
