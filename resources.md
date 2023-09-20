@@ -40,9 +40,12 @@ This tool is great because it tells you whether you are passing WCAG contrast gu
 * [Serving static images for your project](https://docs.djangoproject.com/en/4.2/howto/static-files/deployment/)
 
 ## Heroku Resources
-* [Deploying Django project to Heroku](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
+* [Deploying Django project to Heroku](https://devcenter.heroku.com/articles/django-app-configuration)
 * [Deploying Python / Django apps on Heroku](https://devcenter.heroku.com/articles/python-gunicorn)
 * [Making Heroku automatically always do migrations whenever a new build is made](https://help.heroku.com/GDQ74SU2/django-migrations) - This fixes the "missing relation" problem on Heroku.
+* [How to setup config variables so you don't have to store secret keys/API keys in GitHub](https://devcenter.heroku.com/articles/config-vars)
+* [Setting up WhiteNoise to handle static files](https://whitenoise.readthedocs.io/en/stable/django.html)
+
 
 ### Deploying to Heroku
 
