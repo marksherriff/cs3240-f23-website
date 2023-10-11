@@ -100,8 +100,10 @@
   type: lecture
   date: 10/12
   coursepack: https://www.cs3240.org/modules/design/modularity/
+  topic2: Communicating SW Architecture
+  coursepack2: #
 
-- topic: Communicating Design Decisions
+- topic: Communicating Software Architecture Activity
   type: lecture
   date: 10/17
   coursepack: #
