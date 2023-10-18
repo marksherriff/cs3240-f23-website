@@ -108,17 +108,17 @@
   date: 10/17
   coursepack: #
   due: "GP-E: Communication (In-Class^)"
-  due_link: #
+  due_link: "https://docs.google.com/document/d/1fOnNyS0s671VFWFqoTrx6mK9wzUfoOQJhd5-FgXuTNc/edit?usp=sharing"
 
 - topic: Software Usability
   type: lecture
   date: 10/19
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
 
-- topic: Software Usability
+- topic: Personas and Wireframes
   type: lecture
   date: 10/24
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
   due: "GP-F: Wireframes (In-Class^)"
   due_link: #
 
