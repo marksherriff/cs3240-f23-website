@@ -185,3 +185,15 @@
 - topic: Quiz 3 - V&V and Professional Issues
   type: quiz
   date: 12/05
+
+- topic: Exam Session 1 @ 2:00 PM
+  type: quiz
+  date: 12/07
+  due: "Final Exam Info"
+  due_link: "https://f23.cs3240.org/syllabus.html#final-exam-and-project-demos"
+
+- topic: Exam Session 2 @ 9:00 AM
+  type: quiz
+  date: 12/15
+  due: "Final Exam Info"
+  due_link: "https://f23.cs3240.org/syllabus.html#final-exam-and-project-demos"
