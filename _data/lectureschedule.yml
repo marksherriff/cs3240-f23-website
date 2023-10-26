@@ -174,16 +174,15 @@
   type: lecture
   date: 11/28
   coursepack: #
-
-- topic: Releasing Software
-  type: lecture
-  date: 11/30
-  coursepack: #
   due: "GP-J: Licenses (Gradescope)"
   due_link: #
 
 - topic: Quiz 3 - V&V and Professional Issues
   type: quiz
+  date: 11/30
+
+- topic: Releasing Software & Course Review
+  type: lecture
   date: 12/05
 
 - topic: Exam Session 1 @ 2:00 PM
