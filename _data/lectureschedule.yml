@@ -129,7 +129,7 @@
 - topic: Verification and Validation
   type: lecture
   date: 10/31
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
 
 - topic: V&V Techniques
   type: lecture
