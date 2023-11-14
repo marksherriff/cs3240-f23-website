@@ -213,6 +213,8 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.
 __Sprint Duration:__  {{site.data.semesterinfo.beta_testing.duration}}     
 __Sprint Due:__ {{site.data.semesterinfo.beta_testing.sprint_check}}
 
+__Goal:__ You now have a "working" version of your project that you can have others use.  Follow the instructions in the Beta Testing Document to have others work through a script of testing your software, similar to what we did with the Guided Practice.  You can ask anyone to test your system, even those currently in CS 3240.  It would be nice to ask at least some folks that you included in your requirements elicitation so they can see what all you have built!  Note that your UX Manager will also need to do the Usability Assessment during this time as well.  Refer to the lectures where this was discussed for more information.  Once you have done your testing, keep polishing your system for final submission!
+
 ### Final Version
 
 __Sprint Duration:__  {{site.data.semesterinfo.final_version.duration}}     
