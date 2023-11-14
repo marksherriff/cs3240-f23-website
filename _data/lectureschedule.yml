@@ -145,26 +145,26 @@
 - topic: SE Code of Ethics
   type: lecture
   date: 11/09
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
   due: "GP-H: Ethics (In-Class^)"
   due_link: #
 
 - topic: DEI in Software Engineering
   type: lecture
   date: 11/14
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
 
 - topic: Building Secure Software
   type: lecture
   date: 11/16
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/security/"
 
 - topic: Software Maintenance
   type: lecture
   date: 11/21
-  coursepack: #
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
   due: "GP-I: Security (Gradescope)"
-  due_link: #
+  due_link: "https://docs.google.com/document/d/1qNtyPslygqzSLySMMjNxRAXY4HzrnJDOTUc2H-qN_cA/edit?usp=sharing"
 
 - topic: Thanksgiving Break (No classes)
   type: holiday
@@ -173,9 +173,9 @@
 - topic: Software Licensing
   type: lecture
   date: 11/28
-  coursepack: #
-  due: "GP-J: Licenses (Gradescope)"
-  due_link: #
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
+  due: "GP-J: Licenses (Gradescope 11/29)"
+  due_link: "https://docs.google.com/document/d/1Bik48VdvDfcCOLlIEtE7A0lV8lHR0GdgK8W9FPmYZi4/edit?usp=sharing"
 
 - topic: Quiz 3 - V&V and Professional Issues
   type: quiz
