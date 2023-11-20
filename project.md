@@ -248,4 +248,8 @@ Aspects that will determine the exact grade within a range include but are not l
 
 __Final Team Evals:__ All team members will complete a final, overall team evaluation at the end of the course.  [Final Student Team Sprint Evaluations]({{ site.data.externallinks.final_team_evaluations }})
 
+__Team Project Demo Signup Sheet:__ All team members are expected to attend if possible.  Scrum masters should consult with their teams and select one slot for a Zoom meeting to do your demo.  Teams do not need to prepare anything for the demo, but it would be appreciated if the staff Gmail accounts were pre-added to your users table.  [Team Project Demo Signup Sheet]({{ site.data.externallinks.final_project_demo_signup }})
+
+__Final Team Project Links:__ Scrum masters should fill out this form after scheduling the demo for the team.  [Project Submission Demo Prep]({{ site.data.externallinks.final_project_heroku_links }})
+
 __The final version of the project must be in GitHub and hosted on Heroku no later than {{ site.data.semesterinfo.project_due_date }}!__
