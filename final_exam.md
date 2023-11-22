@@ -54,6 +54,8 @@ Nope!  On your custom final, you will see something like this as the header for 
 
     ______ Attempting Question  /  ______ Skipping Question
 
+Note that you can let me know here if you are attempting the question or not.
+
 And at the top of the final exam will be something like this:
 
     Total XP Available: 85 XP
