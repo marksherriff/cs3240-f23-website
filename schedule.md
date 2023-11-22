@@ -114,6 +114,7 @@ Sprint Due: Sunday {{day.duedate}} at 12:00 PM
 {% endfor %}
 </tbody></table>
 
+__NOTE: The Beta Testing Report and Usability Assessment Report's due dates have been updated due to a calendar mistake per the announcement sent to the class on Nov 14 and as discussed in lecture.  The submission dates in Gradescope are correct.__
 
 ## Office Hours Calendar
 
