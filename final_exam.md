@@ -84,3 +84,7 @@ No, you do not need to do anything.  Just don't come.
 ## Q: How long does it take to grade the final exam?
 
 If you are just trying to go from a B+ or A- to an A, I can grade those as they are submitted the day of the final.  If you are making up a quiz or have to attempt a bunch of questions, it takes longer.  They should be graded in 24-48 hours or so.
+
+## Q: I didn't read anything on this page.  Can you explain it to me?
+
+Go listen to the last 10 min or so of the lecture from Tuesday, Nov 21, at 11:00.  I explained it all there.  Again.
