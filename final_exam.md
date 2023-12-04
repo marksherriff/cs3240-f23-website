@@ -75,7 +75,7 @@ Nope!
 
 ## Q: How do I tell you I want to take the final?
 
-See the signup sheet that will be posted right here once it's time.
+See the signup sheet [right here](https://docs.google.com/forms/d/e/1FAIpQLSe0bOUDRFxxMpks0IebgulAQpB5P4B9YTlK-4QNYRprLnEssQ/viewform?usp=sf_link) and in the email that was sent out on Monday, Dec 4.
 
 ## Q: I signed up for the final, but changed my mind.  Do I need to do anything?
 
