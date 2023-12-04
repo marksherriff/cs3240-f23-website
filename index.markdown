@@ -17,6 +17,16 @@ Our course is structured around understanding the different aspects of the softw
 [Canvas]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
 [GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
+## End of Semester Information
+- Monday, Dec 4 :: [Final Exam Signup Available](https://docs.google.com/forms/d/e/1FAIpQLSe0bOUDRFxxMpks0IebgulAQpB5P4B9YTlK-4QNYRprLnEssQ/viewform?usp=sf_link) & Quiz 3 Score Returned
+- Tuesday, Dec 5 :: Quiz 3 Regrade Requests close at 9:30 AM EST & Final Lecture Session with [Sherriff's AMA (Ask Me Anything)](https://docs.google.com/forms/d/e/1FAIpQLSc-vWjpIuPjGaRXRkjPS9UjhmZtG7BIk42LENhQRbFNDtYwgQ/viewform?usp=sf_link)
+- Wednesday, Dec 6 :: All remaining grades returned
+- Thursday, Dec 7 :: Signup for the 2:00 Exam closes at 11:00 AM, then 2:00 Exam in Rice 130
+- Monday, Dec 11 :: Project Demos and Student Conferences begin as needed
+- Thursday, Dec 14 :: Signup for the Friday Exam closes at 12:00 Noon
+- Friday, Dec 15 :: Exam at 9:00 in Rice 130
+- Sunday, Dec 17 :: Grades submitted to SIS
+
 ## Lecture and Lab Sessions
 {% for section in site.data.semesterinfo.lecture_sections %} {{ section }}    
 {% endfor %}   
