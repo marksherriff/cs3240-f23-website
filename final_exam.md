@@ -77,6 +77,14 @@ Nope!
 
 See the signup sheet [right here](https://docs.google.com/forms/d/e/1FAIpQLSe0bOUDRFxxMpks0IebgulAQpB5P4B9YTlK-4QNYRprLnEssQ/viewform?usp=sf_link) and in the email that was sent out on Monday, Dec 4.
 
+## Q: I signed up fort he final exam!  Where do I go?
+
+The exam is in Rice 130, the same room we have class in.
+
+## Q: What do I need to bring?
+
+A writing implement that is visible upon the page, but crayons are generally a bad idea.  Also, remember how much XP you already have before taking the final.  I won't have that for you when you get here.
+
 ## Q: I signed up for the final, but changed my mind.  Do I need to do anything?
 
 No, you do not need to do anything.  Just don't come.
